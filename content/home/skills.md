@@ -24,10 +24,14 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
-  icon: fa-microsoft
+- description: 
+  icon: microsoft
   icon_pack: fab
   name: Microsoft Office
+- description: 
+  icon: project-diagram
+  icon_pack: fas
+  name: Machine Learning
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
