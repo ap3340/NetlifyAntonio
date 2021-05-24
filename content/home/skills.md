@@ -29,9 +29,17 @@ feature:
   icon_pack: fab
   name: Microsoft Office
 - description: 
+  icon: python
+  icon_pack: fab
+  name: Python
+- description: 
   icon: project-diagram
   icon_pack: fas
   name: Machine Learning
+- description: 
+  icon: aws
+  icon_pack: fab
+  name: Cloud Practitioner
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
