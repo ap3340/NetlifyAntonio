@@ -22,13 +22,6 @@ twitter: ''
 
 email: ap3340@live.unc.edu
 phone: 910-301-0623
-address:
-  street: 2925 Pine Log Rd. Lot 2
-  city: Lumberton 
-  region: NC
-  postcode: '28360'
-  country: United States
-  country_code: US
 
 contact_links:
   - icon: keybase
@@ -44,7 +37,7 @@ contact_links:
 
 main_menu:
   enable: true
-  align: l
+  align: c
   show_logo: true
   show_language: false
   show_day_night: true
