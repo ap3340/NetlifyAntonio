@@ -35,7 +35,7 @@ feature:
 - description: 
   icon: aws
   icon_pack: fab
-  name: Cloud Practitioner
+  name: Cloud Practitioner (Pending)
 - description: 
   icon: guitar
   icon_pack: fas
