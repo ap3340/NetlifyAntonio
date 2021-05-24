@@ -30,9 +30,9 @@ experience:
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
-    * Organized, handled, and collected rare and unique library materials
-    * Modelling
-    * Deploying
+    
+        * Organized, handled, and collected rare and unique library materials.
+        * Assisted in the correct labeling of the materials.
         
   - title: Financial Aid Clerk
     company: Robeson Community College
@@ -40,9 +40,10 @@ experience:
     location: Lumberton, NC
     date_start: '2017-10-01'
     date_end: '2018-06-01'
-    description: 
-    * Aided people with financial aid related questions in person and over the phone. 
-    * Filed student Financial Aid records and updated confidential monetary records.
+    description:  |2-
+    
+        * Aided people with financial aid related questions in person and over the phone. 
+        * Filed student Financial Aid records and updated confidential monetary records.
 
 design:
   columns: '2'
