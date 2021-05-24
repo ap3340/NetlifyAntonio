@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'ap3340@live.unc.edu'
+  link: 'mailto:ap3340@live.unc.edu'
 - icon: github
   icon_pack: fab
   link: https://github.com/ap3340
