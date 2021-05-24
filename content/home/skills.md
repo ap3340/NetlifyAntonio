@@ -21,10 +21,6 @@ feature:
   icon_pack: fab
   name: R
 - description: 
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 
   icon: microsoft
   icon_pack: fab
   name: Microsoft Office
@@ -40,6 +36,11 @@ feature:
   icon: aws
   icon_pack: fab
   name: Cloud Practitioner
+- description: 
+  icon: guitar
+  icon_pack: fas
+  name: Guitar
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
