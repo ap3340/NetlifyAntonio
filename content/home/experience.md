@@ -29,12 +29,10 @@ experience:
     location: Chapel Hill, NC
     date_start: '2021-01-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description:
+    * Organized, handled, and collected rare and unique library materials
+    * Modelling
+    * Deploying
         
   - title: Financial Aid Clerk
     company: Robeson Community College
@@ -42,8 +40,9 @@ experience:
     location: Lumberton, NC
     date_start: '2017-10-01'
     date_end: '2018-06-01'
-    description: * Aided people with financial aid related questions in person and over the phone. 
-                 * Filed student Financial Aid records and updated confidential monetary records.
+    description: 
+    * Aided people with financial aid related questions in person and over the phone. 
+    * Filed student Financial Aid records and updated confidential monetary records.
 
 design:
   columns: '2'
