@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: https://www.udemy.com
-  date_end: "Present"
+  date_end: ""
   date_start: "2021-06-01"
   description: "35 Total Hours covering topics such as Random Forest, SVM, Neural Networks, CNN, and Time Series using both Python & R."
   organization: Udemy
