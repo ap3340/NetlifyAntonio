@@ -22,11 +22,11 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Special Collections Processing Assistant
+    company: UNC-Chapel Hill
     company_url: ''
-    company_logo: org-gc
-    location: California
+    company_logo: ''
+    location: Chapel Hill, NC
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
@@ -36,14 +36,14 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Financial Aid Clerk
+    company: Robeson Community College
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Lumberton, NC
+    date_start: '2017-10-01'
+    date_end: '2018-06-01'
+    description: * Aided people with financial aid related questions in person and over the phone. 
+                 * Filed student Financial Aid records and updated confidential monetary records.
 
 design:
   columns: '2'
