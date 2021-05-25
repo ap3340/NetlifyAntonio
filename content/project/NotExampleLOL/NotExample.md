@@ -30,6 +30,10 @@ url_video: ""
 slides: example
 ---
 
+YO YO YO. You notice that the summary for this page isn't like the example's summary page. The example's doesn't go straight to the code stuff. 
+
+But anyway, delete this entire folder with the jpg to get it running like it was btw. 
+
 Ight fam, I think I may have gotten it now? Just write stuff in this section and figure out how to include the picture later. I think 
 
 all of that is done in the section above where you're writing this. 
