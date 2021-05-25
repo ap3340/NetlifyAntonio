@@ -32,9 +32,7 @@ content:
 #    tag: Deep Learning
 #  - name: Other
 #    tag: Demo
-  
-hugo new  --kind project project/Antonio-testing-project
-
+ 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
