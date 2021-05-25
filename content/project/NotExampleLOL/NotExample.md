@@ -9,8 +9,8 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by jameskle.com. Need to change!
-  focal_point: Smart
+  caption: 'Image credit: [**James**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  focal_point: Right
 
 
 links:
