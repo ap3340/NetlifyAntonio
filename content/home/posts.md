@@ -4,7 +4,7 @@
 widget: pages
 
 # Include this section? True/False
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
