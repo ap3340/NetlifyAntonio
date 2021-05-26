@@ -30,11 +30,9 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
-So, I have no idea how to get the picture to show up as preview.
-
-If I can't figure it out, I'll probs just link towards github with the external_link: "" thing. 
+NA Writing.
 
 
