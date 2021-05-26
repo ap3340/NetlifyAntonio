@@ -7,7 +7,7 @@ widget: contact
 headless: true
 
 # Display on Website? True/False
-active: false
+active: true
 
 # Order that this section appears on the page.
 weight: 130
