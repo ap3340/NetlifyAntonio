@@ -78,6 +78,6 @@ related:
       
       
 [[gallery_item]]
-album = "images"
-image = "img1.jpg"
-caption = "Write your image caption here"
+album: "images"
+image: "img1.jpg"
+caption: "Write your image caption here"
