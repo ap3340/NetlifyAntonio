@@ -11,6 +11,7 @@ external_link: ""
 image:
   caption: 'Image credit: [**James**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
+  preview_only: false
 
 
 links:
