@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: 'Image credit: [**James**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**James**](https://jameskle.com)'
   focal_point: Right
   preview_only: false
 
