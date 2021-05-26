@@ -2,14 +2,15 @@
 title: NBA Predictions
 summary: For class hopefully. 
 tags:
-- Random Forest
+- Hypothesis Testing
+- R Data Visualization
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/ap3340/Carolina-Data-Challenge-2020"
 
 image:
-  caption: 'Image credit: [**James**](https://jameskle.com)'
+  caption: 'Image credit: Binyamin Mellish on Pexels.com'
   focal_point: Right
   preview_only: false
 
@@ -18,7 +19,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: ""
 url_code: ""
 url_pdf: ""
 url_slides: ""
