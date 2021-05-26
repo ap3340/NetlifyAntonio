@@ -76,12 +76,15 @@ related:
       weight: 70
       
       
----
-layout : "archive"
-title : "Data!"
++++
+layout = "archive"
+title = "pagename"
 
 [[gallery_item]]
-  album : "images"
-  image : "img1.jpg"
-  caption : "caption"
----
+  album = "images"
+  image = "img1.jpg"
+  caption = "captione"
+
++++
+
+page text
