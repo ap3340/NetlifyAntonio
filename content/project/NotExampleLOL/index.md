@@ -1,6 +1,6 @@
 ---
-title: NBA Predictions
-summary: For class hopefully. 
+title: 2014 Super Bowl 
+summary: Hypothesis testinga and R Data Visualization on the season's teams. 
 tags:
 - Hypothesis Testing
 - R Data Visualization
