@@ -4,7 +4,7 @@
 widget: pages
 
 # Include this section? True/False
-active: true
+active: false
 
 # This file represents a page section.
 headless: true
@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Data Visualizations
+title: Recent Posts
 subtitle:
 
 content:
