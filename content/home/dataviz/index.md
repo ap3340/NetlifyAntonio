@@ -20,8 +20,10 @@ design:
   background:
     color: 'navy'
     text_color_light: true
+    
+{{< gallery album="galleryalbum>" >}}
 ---
 
 Add any content to the body of the section here.
 
-{{< gallery album="galleryalbum>" >}}
+
