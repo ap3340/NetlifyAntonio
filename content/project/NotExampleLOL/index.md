@@ -1,6 +1,6 @@
 ---
 title: 2014 Super Bowl 
-summary: Hypothesis testinga and R Data Visualization on the season's teams. 
+summary: Hypothesis testing and R Data Visualization on the season's teams. 
 tags:
 - Hypothesis Testing
 - R Data Visualization
@@ -16,9 +16,9 @@ image:
 
 
 links:
-- icon: twitter
+- icon: github
   icon_pack: fab
-  name: Follow
+  name: Github
   url: ""
 url_code: ""
 url_pdf: ""
