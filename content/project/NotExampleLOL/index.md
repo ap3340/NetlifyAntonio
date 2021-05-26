@@ -19,7 +19,7 @@ links:
 - icon: github
   icon_pack: fab
   name: Github
-  url: ""
+  url: "https://github.com/ap3340/Carolina-Data-Challenge-2020"
 url_code: ""
 url_pdf: ""
 url_slides: ""
