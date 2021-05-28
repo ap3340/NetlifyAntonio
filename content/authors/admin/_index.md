@@ -66,4 +66,4 @@ highlight_name: false
 My name is Antonio Pano and I am currently a student at UNC Chapel Hill working towards completing my Bachelor of Science in Statistics and Analytics with a minor in Cognitive Science. My intention is to purse a job utilizing a combination of these skillsets after graduation in December 2021. I am currently working towards the AWS Certified Cloud Practitioner Certification in order to increase my knowledge of cloud computing and after that, plan on getting familiar with Tableau and R Shiny for enhanced Data Visualization. Below I have put together a few projects I have completed to allow employers to get a better grasp on my technical abilities.
 
 
-{{< icon name="download" pack="fas" >}} My resumé{{< /staticref >}} can be found {{< staticref "media/resume.pdf" "newtab" >}} here. 
+{{< icon name="download" pack="fas" >}} My resumé can be found {{< staticref "media/resume.pdf" "newtab" >}} here {{< /staticref >}}. 
