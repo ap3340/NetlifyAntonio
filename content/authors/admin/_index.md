@@ -14,7 +14,7 @@ organizations:
   url: https://www.unc.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter. COME BACK TO CHANGE
+bio: 
 
 # Interests to show in About widget
 interests:
@@ -53,9 +53,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -63,11 +63,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+My name is Antonio Pano and I am currently a student at UNC Chapel Hill working towards completing my Bachelor of Science in Statistics and Analytics with a minor in Cognitive Science. My intention is to purse a job utilizing a combination of these skillsets after graduation in December 2021. I am currently working towards the AWS Certified Cloud Practitioner Certification in order to increase my knowledge of cloud computing and after that, plan on getting familiar with Tableau and R Shiny for enhanced Data Visualization. Below I have put together a few projects I have completed to allow employers to get a better grasp on my technical abilities.
 
-I am a current **Senior** at UNC-Chapel Hill majoring in Statistics with an interest in predictive modeling. 
 
-My current plan is to specialize in R and Python, blah blah blah. 
-
-Yo fam, write some stuff about yourself here. 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} My resumé{{< /staticref >}} can be found {{< staticref "media/resume.pdf" "newtab" >}} here. 
