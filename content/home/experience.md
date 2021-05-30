@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Work & Leadership Experience
 subtitle:
 
 # Date format for experience
@@ -44,6 +44,28 @@ experience:
     
         * Aided people with financial aid related questions in person and over the phone. 
         * Filed student Financial Aid records and updated confidential monetary records.
+
+  - title: President
+    company: Male Minority Achievement Program
+    company_url: ''
+    location: Lumberton, NC
+    date_start: '2017-10-01'
+    date_end: '2018-06-01'
+    description:  |2-
+    
+        * Administered monthly meetings and dispersed scholarship/ volunteer work information through email to students to aid them with their success at Robeson Community College.
+
+  - title: Parliamentarian
+    company: Student Government Association
+    company_url: ''
+    location: Lumberton, NC
+    date_start: '2017-10-01'
+    date_end: '2018-06-01'
+    description:  |2-
+    
+        * Planned and aided the coordination of monthly events held at Robeson Community College with more than 1500 attendees at each event. 
+        * Helped conduct weekly SGA meetings.
+
 
 design:
   columns: '2'
