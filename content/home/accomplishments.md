@@ -32,7 +32,7 @@ item:
   title: Machine Learning and Deep Learning in Python & R
   url: ""
   
-- certificate_url:https://www.credly.com/badges/21ca9fea-fdaa-4c89-9d3d-78382376b6ec?source=linked_in_profile
+- certificate_url: https://www.credly.com/badges/21ca9fea-fdaa-4c89-9d3d-78382376b6ec?source=linked_in_profile
   date_end: "2024-10-07"
   date_start: "2021-10-07"
   description: "Certified Cloud Practitioner Certification"
