@@ -22,6 +22,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Data Fellow Volunteer
+    company: BlueBonnet Data
+    company_url: ''
+    company_logo: ''
+    location: Chapel Hill, NC
+    date_start: '2021-08-26'
+    date_end: ''
+    description: |2-
+    
+        * Collaborate with a team of student volunteers to provide data science consulting for a Congressional Candidate.
+        
   - title: Special Collections Processing Assistant
     company: UNC-Chapel Hill
     company_url: ''
