@@ -3,6 +3,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 
+# BTW I DID THIS TO ALL THINGS I DIDN'T WANT INCLUDED ON MY WEBSITE!
 # Include this on website? True/False
 active: false
 
