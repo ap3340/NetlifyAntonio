@@ -28,7 +28,7 @@ experience:
     company_logo: ''
     location: Chapel Hill, NC
     date_start: '2021-08-26'
-    date_end: ''
+    date_end: '2021-12-25'
     description: |2-
     
         * Collaborate with a team of student volunteers to provide data science consulting for a Congressional Candidate.
@@ -39,7 +39,7 @@ experience:
     company_logo: ''
     location: Chapel Hill, NC
     date_start: '2021-01-01'
-    date_end: ''
+    date_end: '2021-04-25'
     description: |2-
     
         * Organized, handled, and collected rare and unique library materials.
