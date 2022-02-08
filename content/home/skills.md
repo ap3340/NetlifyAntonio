@@ -27,7 +27,7 @@ feature:
 - description: 
   icon: database
   icon_pack: fas
-  name: SQL
+  name: MySQL
 - description: 
   icon: project-diagram
   icon_pack: fas
