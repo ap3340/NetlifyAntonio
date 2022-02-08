@@ -25,9 +25,9 @@ feature:
   icon_pack: fab
   name: Microsoft Office
 - description: 
-  icon: python
+  icon: database
   icon_pack: fab
-  name: Python
+  name: SQL
 - description: 
   icon: project-diagram
   icon_pack: fas
