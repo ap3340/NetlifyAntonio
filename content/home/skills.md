@@ -26,7 +26,7 @@ feature:
   name: Microsoft Office
 - description: 
   icon: database
-  icon_pack: fab
+  icon_pack: fas
   name: SQL
 - description: 
   icon: project-diagram
