@@ -6,7 +6,7 @@ title: Antonio Pano Flores
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate Student
+role: 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -71,10 +71,10 @@ highlight_name: false
 
 
 ---
-My name is Antonio Pano and I am currently a student at UNC Chapel Hill working towards completing my Bachelor of Science in Statistics and Analytics with a minor in Cognitive Science.
+My name is Antonio Pano and I am a recent December 2021 UNC - Chapel Hill graduate who has completed a Bachelor of Science in Statistics and Analytics with a minor in Cognitive Science.
 
-My intention is to pursue a job utilizing a combination of these skillsets after graduation in December 2021. I am currently working towards increasing my knowledge of program modelling in both Python and R through MOOC's and after that, plan on getting familiar with Tableau and R Shiny for enhanced Data Visualization. 
+My intention is to pursue a position utilizing a combination of these skillsets. I am currently working towards increasing my knowledge of program modeling in Python as well as polishing existing skillsets in SQL & Excel. I've also recently completed the AWS Certified Cloud Practitioner Certification in order to better understand cloud computing. Afterwards, my plan is to become familiar with Tableau and R Shiny for enhanced Data Visualization. 
 
-Below I have put together a few projects I have completed to allow employers to get a better grasp on my technical abilities.
+Below I've put together a few projects to allow employers to get a better grasp on my technical abilities.
 
 
