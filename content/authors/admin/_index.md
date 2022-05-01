@@ -49,8 +49,8 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ap3340
-- icon: border inner
-  icon_pack: fas duotone
+- icon: border all
+  icon_pack: fas 
   link: https://public.tableau.com/app/profile/antoniopanoflores
 
 # Link to a PDF of your resume/CV.
