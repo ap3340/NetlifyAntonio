@@ -29,11 +29,11 @@ feature:
   icon_pack: fas
   name: MySQL
 - description: 
-  icon: project-diagram
-  icon_pack: fas
-  name: Tableau
+  icon: python
+  icon_pack: fab
+  name: Python
 - description: 
-  icon: border inner
+  icon: border-inner
   icon_pack: fab
   name: Tableau
 - description: 
