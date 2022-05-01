@@ -33,7 +33,7 @@ feature:
   icon_pack: fab
   name: Python
 - description: 
-  icon: border-inner
+  icon: plus
   icon_pack: fab
   name: Tableau
 - description: 
