@@ -31,11 +31,11 @@ feature:
 - description: 
   icon: project-diagram
   icon_pack: fas
-  name: Machine Learning
+  name: Tableau
 - description: 
-  icon: aws
+  icon: border inner
   icon_pack: fab
-  name: Cloud Practitioner 
+  name: Tableau
 - description: 
   icon: guitar
   icon_pack: fas
