@@ -50,7 +50,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/ap3340
   - icon: border-inner
-  icon_pack: fas
+  icon_pack: fab
   link: https://public.tableau.com/app/profile/antoniopanoflores
 
 # Link to a PDF of your resume/CV.
