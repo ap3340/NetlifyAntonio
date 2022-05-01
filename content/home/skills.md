@@ -34,7 +34,7 @@ feature:
   name: Python
 - description: 
   icon: signal
-  icon_pack: fab
+  icon_pack: fas
   name: Tableau
 - description: 
   icon: guitar
