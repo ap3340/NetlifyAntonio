@@ -42,13 +42,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ap3340@live.unc.edu'
+  link: 'mailto:antoniopanoflores1@gmail.com'
 - icon: github
   icon_pack: fab
   link: https://github.com/ap3340
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ap3340
+  - icon: border-inner
+  icon_pack: fab
+  link: https://public.tableau.com/app/profile/antoniopanoflores
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -71,10 +74,10 @@ highlight_name: false
 
 
 ---
-My name is Antonio Pano and I am a recent December 2021 UNC - Chapel Hill graduate who has completed a Bachelor of Science in Statistics and Analytics with a minor in Cognitive Science.
+My name is Antonio Pano and I am a December 2021 UNC - Chapel Hill graduate who has completed a Bachelor of Science in Statistics and Analytics with a minor in Cognitive Science.
 
-My intention is to pursue a position utilizing a combination of these skillsets. I am currently working towards increasing my knowledge of program modeling in Python as well as polishing existing skillsets in SQL & Excel. I've also recently completed the AWS Certified Cloud Practitioner Certification in order to better understand cloud computing. Afterwards, my plan is to become familiar with Tableau and R Shiny for enhanced Data Visualization. 
+My intention is to pursue a position utilizing a combination of these skillsets. I am currently working towards increasing my knowledge of program modeling in Python as well as polishing existing skillsets in SQL & Excel. I've recently completed the AWS Certified Cloud Practitioner Certification in order to better understand cloud computing. Afterward, my plan is to become familiar with Tableau/R Shiny for enhanced Data Visualization. 
 
-Below I've put together a few projects to allow employers to get a better grasp on my technical abilities.
+Below I've put together a few projects to allow employers to get a better grasp on my technical abilities. 
 
 
