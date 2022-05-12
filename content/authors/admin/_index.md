@@ -18,9 +18,8 @@ bio:
 
 # Interests to show in About widget
 interests:
-- Machine Learning
 - Data Analysis
-- Consciousness
+- Information Retrieval 
 
 # Education to show in About widget
 education:
