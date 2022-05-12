@@ -73,7 +73,7 @@ highlight_name: false
 
 
 ---
-My name is Antonio Pano and I am a December 2021 UNC - Chapel Hill graduate who has completed a Bachelor of Science in Statistics and Analytics with a minor in Cognitive Science.
+My name is Antonio Pano and I am a December 2021 UNC - Chapel Hill graduate who has completed a Bachelor of Science in Statistics and Operations Research with a minor in Cognitive Science.
 
 My intention is to pursue a position utilizing a combination of these skillsets. I am currently working towards increasing my knowledge of data analysis in Tableau as well as polishing existing skillsets in SQL and Excel. I've also completed the AWS Certified Cloud Practitioner Certification in order to better understand cloud computing. 
 
