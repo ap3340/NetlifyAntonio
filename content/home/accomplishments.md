@@ -23,14 +23,6 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url:
-  date_end: ""
-  date_start: "2021-06-01"
-  description: "35 Total Hours covering topics such as Random Forest, SVM, Neural Networks, CNN, and Time Series using both Python & R."
-  organization: Udemy
-  organization_url: https://www.udemy.com
-  title: Machine Learning and Deep Learning in Python & R
-  url: ""
   
 - certificate_url: https://www.credly.com/badges/21ca9fea-fdaa-4c89-9d3d-78382376b6ec?source=linked_in_profile
   date_end: "2024-10-07"
