@@ -6,7 +6,7 @@ tags:
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/ap3340/Archery-Insights"
+external_link: "https://github.com/ap3340/PortfolioProjects"
 
 image:
   caption: Pixabay on Pexels.com
@@ -16,7 +16,7 @@ links:
 - icon: github
   icon_pack: fab
   name: Github
-  url: https://github.com/ap3340/Archery-Insights
+  url: https://github.com/ap3340/PortfolioProjects
 url_code: ""
 url_pdf: ""
 url_slides: ""
