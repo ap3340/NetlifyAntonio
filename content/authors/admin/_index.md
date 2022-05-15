@@ -50,7 +50,7 @@ social:
   link: https://www.linkedin.com/in/ap3340
 - icon: signal
   icon_pack: fas 
-  link: https://public.tableau.com/app/profile/antoniopanoflores
+  link: https://public.tableau.com/app/profile/antoniopano
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
