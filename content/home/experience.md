@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Data Fellow Volunteer
+  - title: Data Fellow
     company: BlueBonnet Data
     company_url: ''
     company_logo: ''
@@ -31,7 +31,9 @@ experience:
     date_end: '2021-12-25'
     description: |2-
     
-        * Collaborate with a team of student volunteers to provide data science consulting for a Congressional Candidate.
+        * Performed Naive Bayes on a dataset of collected ballots to predict ticket-splitting on the votingdemographic as consultation for a Congressional Candidate.
+        * Utilized AWS services (EC2 Instance) to train models which mandated large computing power.
+
         
   - title: Special Collections Processing Assistant
     company: UNC-Chapel Hill
@@ -42,19 +44,8 @@ experience:
     date_end: '2021-04-25'
     description: |2-
     
-        * Organized, handled, and collected rare and unique library materials.
-        * Assisted in the correct labeling of the materials.
-        
-  - title: Financial Aid Clerk
-    company: Robeson Community College
-    company_url: ''
-    location: Lumberton, NC
-    date_start: '2017-10-01'
-    date_end: '2018-06-01'
-    description:  |2-
-    
-        * Aided people with financial aid related questions in person and over the phone. 
-        * Filed student Financial Aid records and updated confidential monetary records.
+        * Curated ‘special collection’ books for organization and labeling purposes.
+        * Updated confidential labeling records using MS Excel.
 
   - title: President
     company: Male Minority Achievement Program
@@ -74,7 +65,7 @@ experience:
     date_end: '2018-06-01'
     description:  |2-
     
-        * Planned and aided the coordination of monthly events held at Robeson Community College with more than 1500 attendees at each event. 
+        * Assisted with scheduling and coordination of monthly events held at Robeson Community College with more than 1500 attendees at each event. 
         * Helped conduct weekly SGA meetings.
 
 
