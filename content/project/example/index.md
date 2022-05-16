@@ -1,8 +1,8 @@
 ---
-title: Archery Insights
-summary: Linear Regression performed on archery data. 
+title: Covid Exploration
+summary: CTE, Temp Tables & usage of Joins w/ MySQL to explore data on confirmed covid death statistics.
 tags:
-- Linear Regression
+- MySQL
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
