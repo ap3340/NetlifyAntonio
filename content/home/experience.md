@@ -31,8 +31,8 @@ experience:
     date_end: '2021-12-25'
     description: |2-
     
-        * Performed Naive Bayes on a dataset of collected ballots to predict ticket-splitting on the votingdemographic as consultation for a Congressional Candidate.
-        * Utilized AWS services (EC2 Instance) to train models which mandated large computing power.
+        * Utilized AWS services (EC2 Instances) to train Naive Bayes models on a dataset of collected ballots topredict ticket-splitting on the voting demographic as consultation for a Congressional Candidate.
+
 
         
   - title: Special Collections Processing Assistant
