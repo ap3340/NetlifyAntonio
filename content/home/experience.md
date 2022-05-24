@@ -31,7 +31,7 @@ experience:
     date_end: '2021-12-25'
     description: |2-
     
-        * Utilized AWS services (EC2 Instances) to train Naive Bayes models on a dataset of collected ballots topredict ticket-splitting on the voting demographic as consultation for a Congressional Candidate.
+        * Utilized AWS services (EC2 Instances) to train Naive Bayes models on a dataset of collected ballots to predict ticket-splitting on the voting demographic as consultation for a Congressional Candidate.
 
 
         
