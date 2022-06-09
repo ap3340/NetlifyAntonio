@@ -31,7 +31,8 @@ experience:
     date_end: '2021-12-25'
     description: |2-
     
-        * Utilized AWS services (EC2 Instances) to train Naive Bayes models on a dataset of collected ballots to predict ticket-splitting on the voting demographic as consultation for a Congressional Candidate.
+        *  Utilized AWS services (EC2 Instances) to host cloud-based sessions of R & RStudio and train Naive Bayes models while minimizing cost. Created IAM Users to provide access to others on the team.
+        *  Performed on a dataset of collected ballots to predict ticket-splitting on the respective voting demographic as consultation for a Congressional Candidate.
 
 
         
@@ -65,8 +66,7 @@ experience:
     date_end: '2018-06-01'
     description:  |2-
     
-        * Assisted with scheduling and coordination of monthly events held at Robeson Community College with more than 1500 attendees at each event. 
-        * Helped conduct weekly SGA meetings.
+        * Helped plan weekly SGA meetings & aided coordination of monthly events held at Robeson Community College with more than 1500 attendees at each event
 
 
 design:
