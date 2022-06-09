@@ -13,9 +13,9 @@ image:
   focal_point: Smart
 
 links:
-- icon: github
-  icon_pack: fab
-  name: Github
+- icon: 
+  icon_pack: 
+  name: 
   url: https://orderedantiks.com/
 url_code: ""
 url_pdf: ""
