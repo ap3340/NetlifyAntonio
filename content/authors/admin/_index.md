@@ -47,7 +47,7 @@ social:
   link: https://github.com/ap3340
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/ap3340
+  link: https://www.linkedin.com/in/antonio-pano/
 - icon: signal
   icon_pack: fas 
   link: https://public.tableau.com/app/profile/antoniopano
