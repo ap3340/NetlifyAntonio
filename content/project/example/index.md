@@ -1,6 +1,6 @@
 ---
 title: Covid Exploration
-summary: CTE, Temp Tables & usage of Joins w/ MySQL to explore data on confirmed covid death statistics.
+summary: CTEs, Temp Tables & usage of Joins w/ MySQL to explore data on confirmed covid death statistics.
 tags:
 - MySQL
 date: "2016-04-27T00:00:00Z"
