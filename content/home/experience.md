@@ -52,8 +52,8 @@ experience:
     company: Male Minority Achievement Program
     company_url: ''
     location: Lumberton, NC
-    date_start: '2017-10-01'
-    date_end: '2018-06-01'
+    date_start: ''
+    date_end: ''
     description:  |2-
     
         * Administered monthly meetings and dispersed scholarship/ volunteer work information through email to students to aid them with their success at Robeson Community College.
@@ -62,8 +62,8 @@ experience:
     company: Student Government Association
     company_url: ''
     location: Lumberton, NC
-    date_start: '2017-10-01'
-    date_end: '2018-06-01'
+    date_start: ''
+    date_end: ''
     description:  |2-
     
         * Helped plan weekly SGA meetings & aided coordination of monthly events held at Robeson Community College with more than 1500 attendees at each event
