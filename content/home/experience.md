@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: ''
     location: Chapel Hill, NC
-    date_start: '2021-09-26'
-    date_end: '2021-12-25'
+    date_start: 
+    date_end: 
     description: |2-
     
         *  Utilized AWS services (EC2 Instances) to host cloud-based sessions of R & RStudio and train Naive Bayes models while minimizing cost. Created IAM Users to provide access to others on the team.
@@ -41,8 +41,8 @@ experience:
     company_url: ''
     company_logo: ''
     location: Chapel Hill, NC
-    date_start: '2021-01-01'
-    date_end: '2021-04-25'
+    date_start: 
+    date_end: 
     description: |2-
     
         * Curated ‘special collection’ books for organization and labeling purposes.
