@@ -48,26 +48,6 @@ experience:
         * Curated ‘special collection’ books for organization and labeling purposes.
         * Updated confidential labeling records using MS Excel.
 
-  - title: President
-    company: Male Minority Achievement Program
-    company_url: ''
-    location: Lumberton, NC
-    date_start: 
-    date_end: 
-    description:  |2-
-    
-        * Administered monthly meetings and dispersed scholarship/ volunteer work information through email to students to aid them with their success at Robeson Community College.
-
-  - title: Parliamentarian
-    company: Student Government Association
-    company_url: ''
-    location: Lumberton, NC
-    date_start: 
-    date_end: 
-    description:  |2-
-    
-        * Helped plan weekly SGA meetings & aided coordination of monthly events held at Robeson Community College with more than 1500 attendees at each event
-
 
 design:
   columns: '2'
