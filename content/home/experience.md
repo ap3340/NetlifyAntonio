@@ -33,7 +33,7 @@ experience:
     
         *   Employed AWS services (EC2 Instances) to host cloud-based sessions of R & R-Studio as support for a project performing Dirichlet-Multinomial Bayes Classification. Assisted w/ Exploratory Data Analysis.
         * Reduced model implementation time and minimized overall cost. Implemented to predict ticket-splitting on a voting demographic as consultation for the congressional candidate.
-        * Created IAM Users to provide access to others on the team. Presented methodology to affiliates.
+        * Created IAM Users to provide access to others on the team. Presented methodology to affiliates..
 
 
 
