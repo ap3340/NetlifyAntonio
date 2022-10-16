@@ -31,8 +31,10 @@ experience:
     date_end: 
     description: |2-
     
-        *  Utilized AWS services (EC2 Instances) to host cloud-based sessions of R & RStudio and train Naive Bayes models while minimizing cost. Created IAM Users to provide access to others on the team.
-        *  Performed on a dataset of collected ballots to predict ticket-splitting on the respective voting demographic as consultation for a Congressional Candidate.
+        *   Employed AWS services (EC2 Instances) to host cloud-based sessions of R & R-Studio as support for a project performing Dirichlet-Multinomial Bayes Classification. Assisted w/ Exploratory Data Analysis.
+        * Reduced model implementation time and minimized overall cost. Implemented to predict ticket-splitting on a voting demographic as consultation for the congressional candidate.
+        * Created IAM Users to provide access to others on the team. Presented methodology to affiliates.
+
 
 
         
