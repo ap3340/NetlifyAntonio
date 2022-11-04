@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: ''
     location: Chapel Hill, NC
-    date_start: 
+    date_start: September 1, 2021
     date_end: 
     description: |2-
     
@@ -43,7 +43,7 @@ experience:
     company_url: ''
     company_logo: ''
     location: Chapel Hill, NC
-    date_start: 
+    date_start: January 1, 2021
     date_end: 
     description: |2-
     
