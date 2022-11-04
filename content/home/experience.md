@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: ''
     location: Chapel Hill, NC
-    date_start: September 1, 2021
-    date_end: December 1, 2021
+    date_start: 09/01/2021
+    date_end: 12/01/2021
     description: |2-
     
         *   Employed AWS services (EC2 Instances) to host cloud-based sessions of R & R-Studio as support for a project performing Dirichlet-Multinomial Bayes Classification. Assisted w/ Exploratory Data Analysis.
@@ -43,8 +43,8 @@ experience:
     company_url: ''
     company_logo: ''
     location: Chapel Hill, NC
-    date_start: January 1, 2021
-    date_end: April 1, 2021
+    date_start: 01/01/2020
+    date_end: 04/01/2020
     description: |2-
     
         * Curated ‘special collection’ books for organization and labeling purposes.
